@@ -31,6 +31,7 @@ node_modules
 */bin/
 bin/
 
+
 # Environment variables
 *.env
 
